@@ -7,6 +7,6 @@ int main(void) {
 	// 요즘은 안써줘도 된다.
 	
 	printf("Hello World");
-
+	
 	return 0;
 }
