@@ -36,5 +36,8 @@
     <ClCompile Include="07_operator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08_test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

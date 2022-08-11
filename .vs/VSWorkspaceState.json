@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Step01",
-    "\\Step01\\Step01"
+    "\\Step01\\Step01",
+    "\\Step02",
+    "\\Step02\\Step02"
   ],
-  "SelectedNode": "\\Step01\\Step01.sln",
+  "SelectedNode": "\\Step01\\Step01\\04_scanf.c",
   "PreviewInSolutionExplorer": false
 }
