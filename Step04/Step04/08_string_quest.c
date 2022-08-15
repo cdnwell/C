@@ -45,7 +45,7 @@ int main(void) {
 	}
 	else {
 		printf("회문 입니다.");
-	+}
+	}
 
 	return 0;
 }

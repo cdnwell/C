@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Step01",
     "\\Step01\\Step01",
-    "\\Step02\\Step02",
-    "\\Step03",
-    "\\Step03\\Step03"
+    "\\Step03\\Step03",
+    "\\Step04",
+    "\\Step04\\Step04"
   ],
-  "SelectedNode": "\\Step03\\Step03\\13_quest.c",
+  "SelectedNode": "\\Step04\\Step04\\11_function_quest.c",
   "PreviewInSolutionExplorer": false
 }

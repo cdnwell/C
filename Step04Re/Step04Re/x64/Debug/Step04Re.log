@@ -1,0 +1,4 @@
+﻿  04_function_quest.c
+C:\Users\cdnwe\source\repos\Step04Re\Step04Re\04_function_quest.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cdnwe\source\repos\Step04Re\Step04Re\04_function_quest.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Step04Re.vcxproj -> C:\Users\cdnwe\source\repos\Step04Re\x64\Debug\Step04Re.exe

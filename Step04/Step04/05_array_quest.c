@@ -15,7 +15,7 @@ int main(void) {
 	int start = 0, end = 9, num;
 
 	while (start <= end) {
-		pritnf("숫자 입력 : ");
+		printf("숫자 입력 : ");
 		scanf("%d", &num);
 
 		if (num % 2 == 0) {
