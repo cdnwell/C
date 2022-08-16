@@ -18,7 +18,7 @@ int main(void) {
 	int arr[10], i = 0, j = 9, count = 0;
 	int arr2[10];
 
-	for (int i = 0; i < 10; i++) {
+	for (i = 0; i < 10; i++) {
 		printf("%d번째 배열 : ", i + 1);
 		scanf("%d", &arr[i]);
 	}

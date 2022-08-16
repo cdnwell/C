@@ -3,10 +3,11 @@
     "",
     "\\Step01",
     "\\Step01\\Step01",
-    "\\Step03\\Step03",
     "\\Step04",
+    "\\Step04Re",
+    "\\Step04Re\\Step04Re",
     "\\Step04\\Step04"
   ],
-  "SelectedNode": "\\Step04\\Step04\\11_function_quest.c",
+  "SelectedNode": "\\Step04Re\\Step04Re\\04_function_quest.c",
   "PreviewInSolutionExplorer": false
 }
