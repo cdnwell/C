@@ -6,8 +6,10 @@
     "\\Step04",
     "\\Step04Re",
     "\\Step04Re\\Step04Re",
-    "\\Step04\\Step04"
+    "\\Step04\\Step04",
+    "\\Step05",
+    "\\Step05\\Step05"
   ],
-  "SelectedNode": "\\Step04Re\\Step04Re\\04_function_quest.c",
+  "SelectedNode": "\\Step05\\Step05\\12_pointer_array.c",
   "PreviewInSolutionExplorer": false
 }
