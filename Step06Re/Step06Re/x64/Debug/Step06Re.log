@@ -1,0 +1,3 @@
+﻿  02_str_array.c
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step06Re\Step06Re\02_str_array.c(26,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Step06Re.vcxproj -> C:\Users\cdnwe\OneDrive\바탕 화면\C\Step06Re\x64\Debug\Step06Re.exe

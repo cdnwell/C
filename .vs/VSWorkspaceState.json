@@ -3,13 +3,9 @@
     "",
     "\\Step01",
     "\\Step01\\Step01",
-    "\\Step04",
-    "\\Step04Re",
-    "\\Step04Re\\Step04Re",
-    "\\Step04\\Step04",
-    "\\Step05",
-    "\\Step05\\Step05"
+    "\\Step06",
+    "\\Step06\\Step06"
   ],
-  "SelectedNode": "\\Step05\\Step05\\12_pointer_array.c",
+  "SelectedNode": "\\Step01\\Step01\\04_scanf.c",
   "PreviewInSolutionExplorer": false
 }
