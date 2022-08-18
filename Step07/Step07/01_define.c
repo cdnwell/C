@@ -12,11 +12,11 @@
 #define NAME "홍길동"
 #define AGE 20
 //define 컴파일 되기 전에 치환
-#define HELLO printf("Hello World\n");
+#define HELLO printf("Hello World\n")
 
 int main(void) {
 	printf("%s %d\n", NAME, AGE);
-	HELLO		//세미콜론을 찍지 않아도 기존에 있기 때문에 문장 실행 가능
+	HELLO;		//세미콜론을 찍지 않아도 기존에 있기 때문에 문장 실행 가능
 
 	return 0;
 }

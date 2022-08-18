@@ -58,13 +58,15 @@ int main(void) {
 	//문자 검색
 	char str7[] = "asdfwqervxzfxcv";
 	char* p = str7;
+		p = strchr(p, 'f');
+		printf("문자 찾기 : %p %c\n", p, *p);
 	
-	while (1) {
+	/*while (1) {
 		p = strchr(p, 'f');
 		if (p == NULL) break;
 		printf("%p %c\n", p, *p);
 		p++;
-	}
+	}*/
 
 	//문자열 검색 - 검색한 문자열이 없으면 NULL을 리턴한다.
 	//C언어 때 부터 NULL이 참조형에서 빈값이라는 걸로 씀
@@ -78,10 +80,11 @@ int main(void) {
 	char* ptr2;
 	ptr2 = strtok(str8, " ");
 
-	while (ptr2 != NULL) {
+	puts(ptr2);
+	/*while (ptr2 != NULL) {
 		puts(ptr2);
 		ptr2 = strtok(NULL, " ");
-	}
+	}*/
 
 	for (int i = 0; i < sizeof(str8); i++) {
 		putchar(str8[i]);
@@ -94,7 +97,7 @@ int main(void) {
 	//문자열을 실수로 변환
 	printf("%lf\n", atof("3.1415F"));
 
-	int putNum;
+	char* putNum;
 
 	printf("받아온 문자열 : ");
 	scanf("%d", &putNum);

@@ -7,8 +7,9 @@ void PrintBin1(int n) {
 	//printf("%d", div);
 
 	while (div > 0) {
-		printf("%d", n / div);
+		printf("%d ", n / div);
 		n %= div;
+		//printf(" n : %d ", n);
 		div /= 2;
 	}
 }
