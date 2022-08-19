@@ -3,11 +3,9 @@
     "",
     "\\Step01",
     "\\Step01\\Step01",
-    "\\Step06",
-    "\\Step06\\Step06",
-    "\\Step07",
-    "\\Step07\\Step07"
+    "\\Step08",
+    "\\Step08\\Step08"
   ],
-  "SelectedNode": "\\Step07\\Step07\\09_string.c",
+  "SelectedNode": "\\Step08\\Step08\\06_sort.c",
   "PreviewInSolutionExplorer": false
 }
