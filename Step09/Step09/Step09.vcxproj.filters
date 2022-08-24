@@ -33,6 +33,24 @@
     <ClCompile Include="b.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04_struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_struct_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_struct_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_struct_in_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_enum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="a.h">

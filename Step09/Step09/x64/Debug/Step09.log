@@ -1,4 +1,6 @@
-﻿  b.c
-  main.c
-  코드를 생성하고 있습니다...
-  Step09.vcxproj -> C:\workspace\C\Step09\x64\Debug\Step09.exe
+﻿  04_struct.c
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step09\Step09\04_struct.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step09\Step09\04_struct.c(23,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step09\Step09\04_struct.c(31,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step09\Step09\04_struct.c(31,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Step09.vcxproj -> C:\Users\cdnwe\OneDrive\바탕 화면\C\Step09\x64\Debug\Step09.exe
