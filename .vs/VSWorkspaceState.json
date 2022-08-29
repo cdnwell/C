@@ -3,11 +3,13 @@
     "",
     "\\Step01",
     "\\Step01\\Step01",
+    "\\Step02",
+    "\\Step02\\Step02",
     "\\Step08",
     "\\Step08\\Step08",
     "\\Step09",
     "\\Step09\\Step09"
   ],
-  "SelectedNode": "\\Step09\\Step09\\main.c",
+  "SelectedNode": "\\Step09\\Step09\\09_enum.c",
   "PreviewInSolutionExplorer": false
 }
