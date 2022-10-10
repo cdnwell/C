@@ -1,0 +1,3 @@
+﻿  DoubleLinkedList.c
+C:\Users\cdnwe\OneDrive\바탕 화면\C\Step15\Step15\DoubleLinkedList.c(72,32): warning C4133: '=': 'NODE *'과(와) 'USERDATA *' 사이의 형식이 호환되지 않습니다.
+  Step15.vcxproj -> C:\Users\cdnwe\OneDrive\바탕 화면\C\Step15\x64\Debug\Step15.exe
