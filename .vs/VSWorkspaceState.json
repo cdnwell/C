@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Step09\\Step09",
-    "\\Step13\\Step13"
+    "\\Step09",
+    "\\Step09\\Step09"
   ],
-  "SelectedNode": "\\Step09",
+  "SelectedNode": "\\Step09\\Step09\\01_malloc.c",
   "PreviewInSolutionExplorer": false
 }
